@@ -1,4 +1,4 @@
-name: math108sp24
+name: math108_sp24
 channels:
   - conda-forge
   - defaults
